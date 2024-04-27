@@ -141,7 +141,7 @@ mkdir un sous repertoire/un autre
 Pour la première commande un dossier nommé "nouveau dossier" sera créé. Pour la seconde commande un répertoire nommé "un sous repertoire" sera créé et ce répertoire contiendra un répertoire nommé "un autre".
 
 ### Visualiser le contenu d'un fichier
-La commande `[<NER>] visu` permet de visualiser le contenu d'un **fichier** au format texte (.txt ou .text) et pour les **fichiers** non texte d'affichier leur taille en octet(s). 
+La commande `[<NER>] visu` permet de visualiser le contenu d'un **fichier** au format texte (.txt ou .text) et pour les **fichiers** non texte d'afficher leur taille en octet(s). 
 
 [Exemples](#exemple-daffichage):
 ```
